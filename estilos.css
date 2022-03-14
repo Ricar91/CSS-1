@@ -1,0 +1,31 @@
+body{
+    background-color:rgb(176, 150, 201) ;
+}
+form{
+    background-color: rgb(125, 106, 141);
+    width: 346px;
+    height: 560px;
+    float: left;
+    margin-bottom: 20px;
+}
+h1{
+    color: rgb(65, 37, 68);
+}
+p{
+    background-color: rgb(200, 174, 223);
+}
+iframe{
+    float: right;
+    margin-right: 200px;
+    margin-top: 0px;
+    margin-bottom: 20px;
+}
+#comollegar{
+background-color: rgb(125, 106, 141); 
+float: right;
+width: 200px;
+height: 45px;
+margin-right: 702px;
+margin-top: 0;
+padding-top: 20px;
+}
